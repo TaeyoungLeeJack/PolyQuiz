@@ -1,0 +1,6 @@
+1. Explain what inheritance is.
+Inheritance in java is that inherits its methods and fields to a sub classes from their super class.
+
+2. Explain what polymorphism is.
+
+Polymorphism is that the the super class has its sub classes that inherit the super class' methods and fields(overloading the methods and fields).
